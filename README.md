@@ -1,5 +1,15 @@
 ### Hi there 👋
+🔭 I’m currently working on web design for Colegio de Psicólogos Villa María (CMS- Wordpress).
+🔭 I’m currently working on web design for FM La Ranchada (CMS- Wordpress).
+🔭 I’m currently working on web design for Red de Consumo Popular (CMS- Wordpress).
 
+I worked on web design for BCL Libros (CMS- Wordpress) Link: https://bcllibros.com.ar/
+I worked on web design for Mass Desarrollos (HTML-CSS-JS) Link: http://www.massdesarrollos.com.ar/
+I worked on web design for Parque Podcasts (CMS- Wordpress) Link: https://parquepodcast.com/
+I worked on web design for Villa María Educativa (CMS- Wordpress) Link: https://villamariaeducativa.ar/
+
+- 🌱 I’m currently learning Data Analytics in Coursera
+- 🌱 I’m currently learning Responsive Web Design in FreeCodeCamp
 <!--
 **cmjavierdiaz/cmjavierdiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
